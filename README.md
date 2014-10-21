@@ -14,7 +14,7 @@ Run `python2 brainseqs.py my/brainfuck/sequence` to listen to a file
 
 ## Examples
 
-See the files in [the `examples` folder](BrainSeqs/tree/master/examples)
+See the files in [the `examples` folder](/examples)
 
 Protip: you can run the examples directly with `brainseqs.py`
 
