@@ -1,3 +1,5 @@
+#!/bin/python2
+
 from pyo import *
 from sequencer import *
 from helpers import *
